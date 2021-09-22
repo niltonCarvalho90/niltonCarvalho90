@@ -2,7 +2,7 @@
 ## Olá Seja bem vindo, eu sou o Nilton Carvalho 
 <div>
 - 🧑‍💻 Estou trabalhando atualmente como estagiário em desenvolvimento <div> 
-- 🌱   Estou aprendendo atualmente Java, Sql no Postgre, Jdbc, Jpa e Jfs <div>
+- 🌱   Estou aprendendo atualmente Java, Sql no Postgre, Jdbc, Jpa e Jsf <div>
 - 👨‍🎓    Estudante de Sistemas de Informação <div>
 
 ##
