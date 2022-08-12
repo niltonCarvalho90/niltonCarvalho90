@@ -1,8 +1,8 @@
 
 ## Olá Seja bem vindo, eu sou o Nilton Carvalho 
 <div>
-- 🧑‍💻 Estou trabalhando atualmente como estagiário em desenvolvimento <div> 
-- 🌱   Estou aprendendo atualmente Java, Sql no Postgre, Jdbc, Jpa e Jsf <div>
+- 🧑‍💻 Estou trabalhando atualmente como estagiário em desenvolvimento C# <div> 
+- 🌱   Estou aprendendo atualmente C#, Sql Server, MVC <div>
 - 👨‍🎓    Estudante de Sistemas de Informação <div>
 
 ##
@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://www.kindpng.com/imgv/hThTmm_visual-studio-c-logo-png-transparent-png/">
  
 </div>
   
