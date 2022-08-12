@@ -12,13 +12,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltonCarvalho90&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="60" width="60" src="https://img.icons8.com/color/344/c-sharp-logo-2.png">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="60" width="60" src="https://img.icons8.com/color/344/c-sharp-logo-2.png">
+  
  
 </div>
   
