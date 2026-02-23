@@ -1,9 +1,8 @@
 
 ## Olá Seja bem vindo, eu sou o Nilton Carvalho 
 <div>
-- 🧑‍💻 Estou trabalhando atualmente como estagiário em desenvolvimento C# <div> 
-- 🌱   Estou aprendendo atualmente C#, Sql Server, MVC <div>
-- 👨‍🎓    Estudante de Sistemas de Informação <div>
+- 🧑‍💻 Estou trabalhando atualmente como Desenvolvedor de software C# <div>
+- 👨‍🎓    Graduado em Sistemas de Informação <div>
 
 ##
  <div>
